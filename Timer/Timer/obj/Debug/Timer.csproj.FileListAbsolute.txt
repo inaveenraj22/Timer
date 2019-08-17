@@ -1,0 +1,15 @@
+F:\Testing\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+F:\Testing\Timer\Timer\obj\Debug\MainWindow.g.cs
+F:\Testing\Timer\Timer\obj\Debug\App.g.cs
+F:\Testing\Timer\Timer\obj\Debug\Timer_MarkupCompile.cache
+F:\Testing\Timer\Timer\obj\Debug\Timer_MarkupCompile.lref
+F:\Testing\Timer\Timer\bin\Debug\Timer.exe.config
+F:\Testing\Timer\Timer\bin\Debug\Timer.exe
+F:\Testing\Timer\Timer\bin\Debug\Timer.pdb
+F:\Testing\Timer\Timer\obj\Debug\MainWindow.baml
+F:\Testing\Timer\Timer\obj\Debug\Timer.g.resources
+F:\Testing\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+F:\Testing\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+F:\Testing\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+F:\Testing\Timer\Timer\obj\Debug\Timer.exe
+F:\Testing\Timer\Timer\obj\Debug\Timer.pdb
